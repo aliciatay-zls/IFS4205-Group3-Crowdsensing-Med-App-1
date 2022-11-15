@@ -26,5 +26,5 @@ toml==0.10.2
 tomli==2.0.1
 typing_extensions==4.4.0
 tzdata==2022.2
-virtualenv==20.16.5
+virtualenv==20.16.7
 zipp==3.8.1
