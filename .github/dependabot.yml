@@ -10,7 +10,9 @@ updates:
     schedule:
       # Check for updates managed by npm once a week (by default runs on Monday)
       interval: "weekly"
+    open-pull-requests-limit: 10
   - package-ecosystem: "pip"
-    directory: "/backend"
+    directory: "/"
     schedule:
       interval: "weekly"
+    open-pull-requests-limit: 10
